@@ -1,7 +1,7 @@
 #How to remove the dash from a Vanagon
 *The original article was written by [Blake Heinlein](https://sites.google.com/site/blakeheinlein/blake/dash-removal)*
 
-![](Image here)
+![](https://github.com/solrankos/VanagonWisdom/blob/master/images/dash_removal_images/1.jpg)
 
 I pulled the dashboard off. It took about 1 houce since I had done it once before to replace my heater core. The steps were pretty simple.
 
