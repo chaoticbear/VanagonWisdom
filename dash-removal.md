@@ -1,7 +1,7 @@
 #How to remove the dash from a Vanagon
 *The original article was written by [Blake Heinlein](https://sites.google.com/site/blakeheinlein/blake/dash-removal)*
 
-![](https://github.com/solrankos/VanagonWisdom/blob/master/images/dash-removal-images/1.jpg)
+![](https://github.com/solrankos/VanagonWisdom/blob/master/images/dash-removal-images/1.JPG?raw=true =500x380)
 
 I pulled the dashboard off. It took about 1 houce since I had done it once before to replace my heater core. The steps were pretty simple.
 
@@ -21,11 +21,14 @@ Now with the steering wheel losened, give the dashboard a good tug towards the r
 
 This is the dashboard removed and upside down on the seat. Last time I removed the dash I put in sound/heat insulation on the bottom of the dash to try to reduce the noise. That's what the shiny silver mat is on the bottom of the dash.
 
-![](Image here)
+![](https://github.com/solrankos/VanagonWisdom/blob/master/images/dash-removal-images/2.jpg?raw=true =500x380)
+
 Here is a better look at the bottom of the dash.
 
-![](Image here)
+![](https://github.com/solrankos/VanagonWisdom/blob/master/images/dash-removal-images/3.jpg?raw=true =500x380)
+
 And finally the bare naked vanagon without the dashboard.
 
-![](Image here)
+![](https://github.com/solrankos/VanagonWisdom/blob/master/images/dash-removal-images/4.jpg?raw=true =500x380)
+
 Hmm. Should I pull out the heater core before or after I go to Burningvan 2007? Oh by the way yes you can drive a van in this condition. (Don't forget to re-attach the steering column though.)
